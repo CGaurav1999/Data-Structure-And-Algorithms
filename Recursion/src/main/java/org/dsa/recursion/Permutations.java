@@ -1,4 +1,4 @@
-package org.javaStream.recursion;
+package org.dsa.recursion;
 
 public class Permutations {
     private static void permutations(String s,String res){

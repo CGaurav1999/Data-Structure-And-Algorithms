@@ -1,4 +1,4 @@
-package org.javaStream.recursion;
+package org.dsa.recursion;
 
 import java.util.Arrays;
 

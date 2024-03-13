@@ -1,4 +1,4 @@
-package org.javaStream.recursion;
+package org.dsa.recursion;
 
 //https://leetcode.com/problems/powx-n/description/
 public class PowerCalculation {

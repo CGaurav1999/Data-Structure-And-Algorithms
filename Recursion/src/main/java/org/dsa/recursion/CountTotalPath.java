@@ -1,4 +1,4 @@
-package org.javaStream.recursion;
+package org.dsa.recursion;
 
 public class CountTotalPath {
     int[][] arr;

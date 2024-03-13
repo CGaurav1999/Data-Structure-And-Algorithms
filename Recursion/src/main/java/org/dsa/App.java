@@ -1,4 +1,4 @@
-package org.javaStream;
+package org.dsa;
 
 /**
  * Hello world!
