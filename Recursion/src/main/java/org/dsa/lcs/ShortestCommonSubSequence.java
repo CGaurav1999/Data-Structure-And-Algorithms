@@ -1,8 +1,6 @@
 package org.dsa.lcs;
-
-
-
-public class PrintLCSubsequence {
+//https://leetcode.com/problems/shortest-common-supersequence/
+public class ShortestCommonSubSequence {
     public static String printLCS(String str1,String str2){
         int n = str1.length();
         int m = str2.length();
@@ -18,7 +16,7 @@ public class PrintLCSubsequence {
                 }
             }
         }
-        System.out.println("lcs length is "+dp[n][m]);
+
         StringBuilder ans = new StringBuilder();
         int i=n,j=m;
         while(i>0 && j>0){
@@ -27,18 +25,31 @@ public class PrintLCSubsequence {
                 i--;
                 j--;
             }else if(dp[i-1][j]>dp[i][j-1]){
+                ans.append(str1.charAt(i-1));
                 i--;
             }else{
+                ans.append(str2.charAt(j-1));
                 j--;
             }
+        }
+        while(i>0){
+            ans.append(str1.charAt(i-1));
+            i--;
+        }
+        while(j>0){
+            ans.append(str2.charAt(j-1));
+            j--;
         }
         ans.reverse();
         return ans.toString();
     }
-
-    public static void main(String[] args) {
-        String str1 = "AGGTAB";
-        String str2 = "GXTXAYB";
-        System.out.println(printLCS(str1, str2));
+    public String shortestCommonSupersequence(String str1, String str2) {
+        if(str1.length()==0){
+            return str2;
+        }
+        if(str2.length()==0){
+            return str1;
+        }
+        return printLCS(str1,str2);
     }
 }
