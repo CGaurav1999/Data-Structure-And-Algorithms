@@ -1,5 +1,6 @@
 package org.dsa.dp;
 
+//unbounded knapsack
 public class UnboundedKnapSack {
     static int knapSack(int n, int w, int val[], int wt[]){
         int [][]dp = new int[n+1][w+1];

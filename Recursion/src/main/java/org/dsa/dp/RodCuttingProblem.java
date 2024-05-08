@@ -1,5 +1,6 @@
 package org.dsa.dp;
 
+//unbounded knapsack
 public class RodCuttingProblem {
     public int cutRod(int val[], int n){
         int [][]dp = new int[n+1][n+1];
