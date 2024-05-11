@@ -2,6 +2,7 @@ package org.dsa.dp.mcm;
 
 import java.util.Arrays;
 
+//https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 public class MinimizeMetrixMultiplication {
     static int [][]dp;
     public static int solve(int[] arr,int i,int j){

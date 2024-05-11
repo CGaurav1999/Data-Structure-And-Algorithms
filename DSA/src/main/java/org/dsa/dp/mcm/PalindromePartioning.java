@@ -2,6 +2,7 @@ package org.dsa.dp.mcm;
 
 import java.util.Arrays;
 
+//https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 public class PalindromePartioning {
     static int [][]dp;
     public static boolean isPalindrome(String str,int i,int j){
