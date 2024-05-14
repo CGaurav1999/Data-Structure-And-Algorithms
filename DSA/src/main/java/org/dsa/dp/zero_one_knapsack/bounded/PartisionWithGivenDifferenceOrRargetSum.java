@@ -1,4 +1,4 @@
-package org.dsa.dp;
+package org.dsa.dp.zero_one_knapsack.bounded;
 
 public class PartisionWithGivenDifferenceOrRargetSum {
     public static int countPartitions(int n, int d, int[] arr) {

@@ -1,4 +1,4 @@
-package org.dsa.dp;
+package org.dsa.dp.zero_one_knapsack.un_bounded;
 
 import java.util.Arrays;
 //unbounded knapsack

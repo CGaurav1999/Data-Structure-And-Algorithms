@@ -1,4 +1,4 @@
-package org.dsa.lcs;
+package org.dsa.dp.lcs;
 
 //https://leetcode.com/problems/delete-operation-for-two-strings/
 public class MakeStringAtoB {

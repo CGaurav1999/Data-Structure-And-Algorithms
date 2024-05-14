@@ -1,4 +1,4 @@
-package org.dsa.dp;
+package org.dsa.dp.zero_one_knapsack.bounded;
 
 public class CountSubsetWithSumEqualToK {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.dsa.dp;
+package org.dsa.dp.zero_one_knapsack.bounded;
 
 public class RecursiveKnapSack {
     //Function to return max value that can be put in knapsack of capacity W.

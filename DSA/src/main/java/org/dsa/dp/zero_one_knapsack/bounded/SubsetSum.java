@@ -1,4 +1,4 @@
-package org.dsa.dp;
+package org.dsa.dp.zero_one_knapsack.bounded;
 
 public class SubsetSum {
     static Boolean isSubsetSum(int n, int arr[], int W){

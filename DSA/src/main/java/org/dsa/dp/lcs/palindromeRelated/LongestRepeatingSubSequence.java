@@ -1,4 +1,4 @@
-package org.dsa.lcs.palindromeRelated;
+package org.dsa.dp.lcs.palindromeRelated;
 //https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
 public class LongestRepeatingSubSequence {
     public int LongestRepeatingSubsequence(String s)

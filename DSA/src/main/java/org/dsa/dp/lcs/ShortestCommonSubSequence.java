@@ -1,4 +1,4 @@
-package org.dsa.lcs;
+package org.dsa.dp.lcs;
 //https://leetcode.com/problems/shortest-common-supersequence/
 public class ShortestCommonSubSequence {
     public static String printLCS(String str1,String str2){

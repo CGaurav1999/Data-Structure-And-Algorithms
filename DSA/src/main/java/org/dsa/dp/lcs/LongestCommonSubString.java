@@ -1,4 +1,4 @@
-package org.dsa.lcs;
+package org.dsa.dp.lcs;
 
 public class LongestCommonSubString {
     int longestCommonSubstr(String text1, String text2, int n, int m){

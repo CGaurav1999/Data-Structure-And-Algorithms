@@ -1,4 +1,4 @@
-package org.dsa.lcs.palindromeRelated;
+package org.dsa.dp.lcs.palindromeRelated;
 //https://leetcode.com/problems/longest-palindromic-subsequence/description/
 public class LongestPlindromicSubsequence {
     public int longestPalindromeSubseq(String str1) {

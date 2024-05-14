@@ -1,4 +1,4 @@
-package org.dsa.lcs.palindromeRelated;
+package org.dsa.dp.lcs.palindromeRelated;
 
 public class LongestPalindromicSubString {
     public String helper(String s,int i,int j){

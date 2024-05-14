@@ -1,4 +1,4 @@
-package org.dsa.lcs;
+package org.dsa.dp.lcs;
 
 public class LongestCommonSubsequence {
     int [][]dp;

@@ -1,4 +1,4 @@
-package org.dsa.lcs.palindromeRelated;
+package org.dsa.dp.lcs.palindromeRelated;
 
 //https://www.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 public class NoOfDeletionToMakeStringPalindrome {

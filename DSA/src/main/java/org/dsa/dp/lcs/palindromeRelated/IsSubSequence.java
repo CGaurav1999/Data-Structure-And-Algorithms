@@ -1,4 +1,4 @@
-package org.dsa.lcs.palindromeRelated;
+package org.dsa.dp.lcs.palindromeRelated;
 
 public class IsSubSequence {
     public boolean isSubsequence(String str1, String str2) {
