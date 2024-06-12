@@ -1,0 +1,199 @@
+Fibonacci Number
+Write a function to calculate the nth Fibonacci number.
+LeetCode: Fibonacci Number
+
+Climbing Stairs
+You can climb 1 or 2 steps at a time. How many distinct ways can you reach the top?
+LeetCode: Climbing Stairs
+
+Coin Change
+Given a list of coin denominations and a total amount, find the minimum number of coins needed to make that amount.
+LeetCode: Coin Change
+
+Longest Increasing Subsequence
+Find the length of the longest increasing subsequence in an array of integers.
+LeetCode: Longest Increasing Subsequence
+
+Longest Common Subsequence
+Given two sequences, find the length of their longest common subsequence.
+LeetCode: Longest Common Subsequence
+
+0/1 Knapsack Problem
+Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack.
+GeeksforGeeks: 0/1 Knapsack Problem
+
+Edit Distance
+Given two strings, find the minimum number of operations required to convert one string into the other.
+LeetCode: Edit Distance
+
+Maximum Subarray
+Find the contiguous subarray which has the largest sum.
+LeetCode: Maximum Subarray
+
+House Robber
+Given an array of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police.
+LeetCode: House Robber
+
+House Robber II
+Similar to House Robber, but the houses are arranged in a circle.
+LeetCode: House Robber II
+
+Decode Ways
+A message containing letters from A-Z can be encoded into numbers. Given a string of digits, determine the total number of ways to decode it.
+LeetCode: Decode Ways
+
+Jump Game
+Given an array of non-negative integers, determine if you are able to reach the last index.
+LeetCode: Jump Game
+
+Unique Paths
+Given a m x n grid, find the number of unique paths from the top-left corner to the bottom-right corner.
+LeetCode: Unique Paths
+
+Unique Paths II
+Similar to Unique Paths but with obstacles in the grid.
+LeetCode: Unique Paths II
+
+Palindrome Partitioning II
+Given a string, find the minimum number of cuts needed to partition it such that every substring is a palindrome.
+LeetCode: Palindrome Partitioning II
+
+Burst Balloons
+Given n balloons, each with a number on it, burst all the balloons. The burst balloons will add to your score. Maximize your score.
+LeetCode: Burst Balloons
+
+Minimum Path Sum
+Given a m x n grid filled with non-negative numbers, find a path from top-left to bottom-right which minimizes the sum of all numbers along its path.
+LeetCode: Minimum Path Sum
+
+Interleaving String
+Given three strings, determine if the third string is an interleaving of the first two.
+LeetCode: Interleaving String
+
+Word Break
+Given a string and a dictionary of words, determine if the string can be segmented into a space-separated sequence of dictionary words.
+LeetCode: Word Break
+
+Word Break II
+Similar to Word Break, but also return all possible segmentations.
+LeetCode: Word Break II
+
+Longest Palindromic Subsequence
+Find the longest palindromic subsequence in a given string.
+LeetCode: Longest Palindromic Subsequence
+
+Scramble String
+Given a string s1, we may represent it as a binary tree by partitioning it to non-empty substrings recursively. Determine if a string s2 is a scrambled string of s1.
+LeetCode: Scramble String
+
+Best Time to Buy and Sell Stock
+Given an array for which the ith element is the price of a given stock on day i, find the maximum profit.
+LeetCode: Best Time to Buy and Sell Stock
+
+Best Time to Buy and Sell Stock II
+Similar to the previous problem, but you can complete as many transactions as you like.
+LeetCode: Best Time to Buy and Sell Stock II
+
+Best Time to Buy and Sell Stock III
+Similar to the previous problems, but you can complete at most two transactions.
+LeetCode: Best Time to Buy and Sell Stock III
+
+Longest Palindromic Substring
+Find the longest palindromic substring in a given string.
+LeetCode: Longest Palindromic Substring
+
+Distinct Subsequences
+Given two strings, find the number of distinct subsequences of the second string that can be found in the first string.
+LeetCode: Distinct Subsequences
+
+Triangle
+Given a triangle array, find the minimum path sum from top to bottom.
+LeetCode: Triangle
+
+Dungeon Game
+Given a dungeon grid with positive and negative integers, find the minimum initial health needed to reach the bottom-right corner.
+LeetCode: Dungeon Game
+
+Wild Card Matching
+Given a string and a wildcard pattern, implement wildcard pattern matching with support for '?' and '*'.
+LeetCode: Wild Card Matching
+
+Regular Expression Matching
+Given an input string and a pattern, implement regular expression matching with support for '.' and '*'.
+LeetCode: Regular Expression Matching
+
+Range Sum Query - Immutable
+Given an integer array, find the sum of elements between indices i and j.
+LeetCode: Range Sum Query - Immutable
+
+Range Sum Query - Mutable
+Similar to the previous problem, but allows updates to the array.
+LeetCode: Range Sum Query - Mutable
+
+Maximal Square
+Given a 2D binary matrix filled with 0's and 1's, find the largest square containing only 1's and return its area.
+LeetCode: Maximal Square
+
+Maximum Product Subarray
+Given an integer array, find the contiguous subarray within an array that has the largest product.
+LeetCode: Maximum Product Subarray
+
+Perfect Squares
+Given a positive integer n, find the least number of perfect square numbers that sum to n.
+LeetCode: Perfect Squares
+
+Partition Equal Subset Sum
+Determine if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
+LeetCode: Partition Equal Subset Sum
+
+Target Sum
+Given a list of non-negative integers and a target sum, determine the number of ways to assign + and - to make the sum of elements equal to the target.
+LeetCode: Target Sum
+
+Russian Doll Envelopes
+Given a number of envelopes, find the maximum number of envelopes you can Russian doll (put one inside another).
+LeetCode: Russian Doll Envelopes
+
+Best Time to Buy and Sell Stock with Cooldown
+You may complete as many transactions as you like, but after you sell your stock, you cannot buy stock on the next day (i.e., cooldown one day).
+LeetCode: Best Time to Buy and Sell Stock with Cooldown
+
+Arithmetic Slices
+A sequence of numbers is called an arithmetic progression if the difference between any two consecutive elements is the same. Given an array, return the number of arithmetic slices in the array.
+LeetCode: Arithmetic Slices
+
+Split Array Largest Sum
+Given an array, split it into k subarrays to minimize the largest sum among these subarrays.
+LeetCode: Split Array Largest Sum
+
+Super Egg Drop
+You are given k eggs and you have access to a building with n floors. Determine the minimum number of moves to find out the highest floor from which an egg can be dropped without breaking.
+LeetCode: Super Egg Drop
+
+Shortest Common Supersequence
+Given two strings, return the shortest string that has both strings as subsequences.
+LeetCode: Shortest Common Supersequence
+
+Stone Game
+Two players play a game with piles of stones. Determine if the first player can win.
+LeetCode: Stone Game
+
+Domino and Tromino Tiling
+You have a 2 x n board and two types of tiles: dominoes and trominoes. Determine the number of ways to tile the board.
+LeetCode: Domino and Tromino Tiling
+
+Minimum Cost to Merge Stones
+Given an array of stones where the ith stone has a weight, find the minimum cost to merge all the stones into one.
+LeetCode: Minimum Cost to Merge Stones
+
+Palindrome Partitioning
+Given a string, partition it such that every substring is a palindrome. Return all possible palindrome partitioning of the string.
+LeetCode: Palindrome Partitioning
+
+Knight Dialer
+A knight on a phone dialer starts on any number and can hop in an L shape. Determine the number of distinct phone numbers of length n that can be dialed.
+LeetCode: Knight Dialer
+
+Minimum Difficulty of a Job Schedule
+Given a list of jobs and their difficulties, and the number of days, find the minimum difficulty of a job schedule.
+LeetCode: Minimum Difficulty of a Job Schedule

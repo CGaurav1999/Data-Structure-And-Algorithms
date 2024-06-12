@@ -1,0 +1,79 @@
+Factorial Calculation
+Problem: Factorial
+Description: Write a recursive function to calculate the factorial of a number.
+
+Fibonacci Sequence
+Problem: Fibonacci Number
+Description: Implement a recursive function to find the nth Fibonacci number.
+
+Sum of Digits
+Problem: Sum of Digits in Base 10
+Description: Calculate the sum of digits of a positive integer number using recursion.
+
+Binary Search
+Problem: Binary Search
+Description: Implement a recursive binary search algorithm.
+
+Tower of Hanoi
+Problem: Tower of Hanoi
+Description: Solve the Tower of Hanoi problem using recursion.
+
+Permutations
+Problem: Permutations
+Description: Generate all permutations of a list using recursion.
+
+Combinations
+Problem: Combinations
+Description: Generate all combinations of a given size from a list using recursion.
+
+Palindrome Check
+Problem: Palindrome Number
+Description: Check if a given number is a palindrome using recursion.
+
+Subset Sum
+Problem: Partition Equal Subset Sum
+Description: Determine if a set can be partitioned into two subsets with equal sum using recursion.
+
+Binary Tree Traversal
+Problem: Binary Tree Preorder Traversal
+Description: Perform preorder traversal of a binary tree using recursion.
+
+Connected Components in Graph
+Problem: Number of Connected Components in an Undirected Graph
+Description: Find the number of connected components in an undirected graph using recursion.
+
+Path Sum
+Problem: Path Sum
+Description: Determine if there exists a path from root to leaf such that the sum of node values equals a given sum using recursion.
+
+Valid Parentheses
+Problem: Valid Parentheses
+Description: Check if a string of parentheses is valid using recursion.
+
+Word Search
+Problem: Word Search
+Description: Check if a word exists in a 2D board of characters using recursion.
+
+Combination Sum
+Problem: Combination Sum
+Description: Find all unique combinations of candidates that sum to a target using recursion.
+
+Generate Parentheses
+Problem: Generate Parentheses
+Description: Generate all valid combinations of n pairs of parentheses using recursion.
+
+Reverse Linked List
+Problem: Reverse Linked List
+Description: Reverse a singly linked list using recursion.
+
+Binary Tree Maximum Path Sum
+Problem: Binary Tree Maximum Path Sum
+Description: Find the maximum path sum in a binary tree using recursion.
+
+Unique Paths
+Problem: Unique Paths
+Description: Count all possible unique paths from top-left to bottom-right of a m x n grid using recursion.
+
+Decode Ways
+Problem: Decode Ways
+Description: Count the number of ways to decode a string of digits using recursion.
