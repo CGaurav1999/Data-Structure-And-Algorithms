@@ -66,6 +66,5 @@ public class NQueens {
         int[][] board = new int[n][n];
         helper(board,0,n);
         return ansBoard;
-
     }
 }

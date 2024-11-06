@@ -15,7 +15,8 @@ public class TotalCombinationOfCoins {
             return dp[n][amount];
         }
         if(coins[n-1]<=amount){
-            return dp[n][amount] = helper(amount-coins[n-1],coins,n) + helper(amount,coins,n-1);
+            return dp[n][amount] = helper(amount-coins[n-1],coins,n)
+                                 + helper(amount,coins,n-1);
         }else{
             return dp[n][amount] = helper(amount,coins,n-1);
         }

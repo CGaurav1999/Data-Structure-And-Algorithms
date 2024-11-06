@@ -1,0 +1,54 @@
+Merge Intervals
+Description: Given a collection of intervals, merge all overlapping intervals and return the merged intervals.
+Explanation: Sort the intervals based on the start time, and then iterate through them to merge overlapping intervals.
+Link: "https://leetcode.com/problems/merge-intervals/"
+
+2. Meeting Rooms II
+Description: Given an array of meeting time intervals, return the minimum number of conference rooms required.
+Explanation: Sort the intervals by start time, and use a min-heap (priority queue) to keep track of end times of ongoing meetings to determine the number of rooms required.
+Link: "https://leetcode.com/problems/meeting-rooms-ii/"
+
+3. Minimum Platforms Required
+Description: Given arrival and departure times of trains, find the minimum number of platforms required so that no train waits.
+Explanation: Sort the arrival and departure times separately, and use two pointers to track the number of trains at the station at any time.
+Link: "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1"
+
+4. Non-overlapping Intervals
+Description: Find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
+Explanation: Sort the intervals by end time and use a greedy approach to remove intervals that overlap.
+Link: "https://leetcode.com/problems/non-overlapping-intervals/"
+
+5. Insert Interval
+Description: Insert a new interval into a set of non-overlapping intervals, merging if necessary, and return the updated list of intervals.
+Explanation: Iterate through the intervals, find the correct position for the new interval, and merge any overlapping intervals.
+Link: "https://leetcode.com/problems/insert-interval/"
+
+6. Meeting Rooms
+Description: Determine if a person could attend all meetings given an array of meeting time intervals.
+Explanation: Sort the intervals by start time and check if any two consecutive intervals overlap.
+Link: "https://leetcode.com/problems/meeting-rooms/"
+
+7. Interval List Intersections
+Description: Given two lists of intervals, return their intersection.
+Explanation: Use a two-pointer technique to iterate through both lists and find the overlapping parts.
+Link: "https://leetcode.com/problems/interval-list-intersections/"
+
+8. Car Pooling
+Description: Given a list of trips, determine if it is possible to pick up and drop off all passengers within the car's capacity.
+Explanation: Treat the trips as intervals, and use a difference array or a sweep line algorithm to track the number of passengers at any point in time.
+Link: "https://leetcode.com/problems/car-pooling/"
+
+9. Employee Free Time
+Description: Given a list of employees with their work schedules (intervals), find the free time intervals when all employees are free.
+Explanation: Merge all the work intervals, and then find the gaps between them.
+Link: "https://leetcode.com/problems/employee-free-time/"
+
+10. Maximum Number of Non-Overlapping Intervals
+Description: Find the maximum number of non-overlapping intervals from a given set of intervals.
+Explanation: Sort the intervals by end time, and use a greedy approach to select the maximum number of intervals that don't overlap.
+Link: "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/"
+
+11. Minimum Interval to Include Each Query
+Description: Given a list of intervals and queries, find the smallest interval that contains each query.
+Explanation: Sort the intervals and queries, then use a two-pointer technique or a binary search to find the smallest interval for each query.
+Link: "https://leetcode.com/problems/minimum-interval-to-include-each-query/"
